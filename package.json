@@ -1,7 +1,7 @@
 {
   "name": "devsecops-lab",
   "version": "1.0.0",
-  "description": "",
+  "description": "DevSecOps lab demo - do not deploy",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
